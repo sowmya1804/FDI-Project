@@ -2,7 +2,8 @@
  Dataset link: https://docs.google.com/spreadsheets/d/1c8KHAiO8lt5WMxWsLVK_M3MC_9WrAsoB/edit?usp=sharing&ouid=115462588069630061003&rtpof=true&sd=true  
  
  Published Link : https://public.tableau.com/views/Book1_16322106721490/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link  
- 
+Exploring the FDI dataset and analyzing it from the perspective of a business.Looking at various sectors to determine which sector will prove most beneficial to collaborate with, for the company.
+
 Case Study : Foreign Direct Investment
 
 1. Import Data   				
