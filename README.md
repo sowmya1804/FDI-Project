@@ -6,10 +6,10 @@ Exploring the FDI dataset and analyzing it from the perspective of a business.Lo
 
 Case Study : Foreign Direct Investment
 
-1. Import Data   				
-2. Unpivoting data from converting wide format to long format    
-3. Cleaning Labels    						
-4. Move to sheet for visualization creation	
+ Import Data   				
+ Unpivoting data from converting wide format to long format    
+ Cleaning Labels    						
+ Move to sheet for visualization creation	
 
 1. Which sector receive the maximum direct funding for a given year?
 2. Which sector receive the minimum direct funding for a given year?
